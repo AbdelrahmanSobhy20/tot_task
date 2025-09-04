@@ -1,16 +1,19 @@
-# tot_task
+Overview
 
-A new Flutter project.
+This is a simple Flutter project that demonstrates how to build a Cart System for an E-commerce app.
+The app has two main screens:
 
-## Getting Started
+- Products Screen - Cart Screen
 
-This project is a starting point for a Flutter application.
+Users can add products to the cart, remove them, view the total price, and apply a discount code.
 
-A few resources to get you started if this is your first Flutter project:
+Objectives
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The goal of this project is to:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Apply OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction).
+
+* Follow SOLID principles in the design.
+
+* Use Bloc for state management to separate business logic from UI.
+
